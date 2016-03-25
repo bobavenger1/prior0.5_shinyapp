@@ -1,4 +1,5 @@
 library(shiny)
+library(rjags)
 
 # Define a server structure
 shinyServer(function(input, output){
